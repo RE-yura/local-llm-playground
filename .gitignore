@@ -1,0 +1,9 @@
+# Model weights & caches (downloaded on demand, never committed)
+models/
+*.gguf
+# Local logs
+logs/
+*.log
+# Python
+.venv/
+__pycache__/
