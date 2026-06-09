@@ -12,7 +12,7 @@ brew install llama.cpp
 ## 使い方
 
 ```bash
-./scripts/serve.sh gemma4-12b
+./scripts/serve.sh lfm2-1.2b-jp
 ```
 
 起動したらブラウザで `http://localhost:8080` を開く（llama.cpp 標準のチャットUI）。
